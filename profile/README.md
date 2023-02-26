@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### A community provides what developer needs.
 <!--
 
 **Here are some ideas to get you started:**
